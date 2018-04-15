@@ -1,0 +1,6 @@
+SONER CEYLAN 38758087578
+
+INTERNET PROGRAMMING HOMEWORK1 
+
+home.html is the home page of my website.
+images are stored in two different folder as you can see. 
